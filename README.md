@@ -1,11 +1,11 @@
-1.Organization can create video meeting for specific project group.
+Professors can create video meetings for specific student groups.
 
-2.Employee can join meeting link.
+Students can join the meeting link.
 
-3.Employee and Organization can turn on/off video or audio.
+Students and Professors can turn on/off video or audio.
 
-4.Employee and Organization can share both screens
+Students and Professors can share their screens.
 
-5.Employee and Organization can both chat in meeting.
+Students and Professors can chat during the meeting.
 
-6.Employee and Organization can also record meeting and download in meeting only.
+Students and Professors can record the meeting and download it during the session.
